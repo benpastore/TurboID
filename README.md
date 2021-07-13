@@ -15,3 +15,5 @@ TurboID Mass Spectrometry Analysis
    This will process output from iupred_analysis.sh. Takes total iupred score for protein and divides by protein length to yeild mean disorder of protein
 
 4. Used the turboid-analysis.R script for statistical analysis and plotting
+
+All other scripts were used in other analyses throughout the report.
